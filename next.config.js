@@ -1,6 +1,5 @@
 module.exports = {
   env: {
-    MONGO_URI:
-      '',
+    MONGO_URI: '',
   },
 };
